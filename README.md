@@ -1,0 +1,2 @@
+# inteligencia-streamlit
+projeto streamlit
